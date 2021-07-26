@@ -1,4 +1,4 @@
-
+# DIP Projects
 ##  [Image Segmentation](https://github.com/harryfilis/Digital-Image-Processing-Project/tree/master/Image%20Segmentation)
     
    ![ImSeg](https://miro.medium.com/max/1080/1*TcPH-XRIlyoB63CqiTCkLw.png)
